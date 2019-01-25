@@ -5,10 +5,15 @@ A python implementation based on auto regression and auto arima
 ## Dependency
 
 [Python 3.x](https://www.python.org/)
+
 [Scikit Learn](https://scikit-learn.org/) 
+
 [Pandas](https://pandas.pydata.org/)
+
 [Numpy](www.numpy.org/)
+
 [Pmdarima](https://pypi.org/project/pmdarima/)
+
 [Matplotlib](https://matplotlib.org/)
 
 

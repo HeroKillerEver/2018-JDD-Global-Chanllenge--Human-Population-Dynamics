@@ -16,21 +16,11 @@ A python implementation based on auto regression and auto arima
 
 [Matplotlib](https://matplotlib.org/)
 
+## Note
 
+We are the global champion (1st/1583 teams)
 
 ## Getting Started
-
-### Unzip File
-
-```bash
-unzip lr_arima.zip
-```
-
-### Be in the directory
-
-```bash
-cd lr_arima
-```
 
 ### Auto Regression
 
@@ -50,5 +40,7 @@ after running the code, there will be a file **predictionARIMA.csv**
 ## Author
 
 Yizhou Chen
+
 Zhongxiang Dai
-Haibin Yu
+
+Haibin Yu/ [@HeroKillerEver](https://github.com/HeroKillerEver)
